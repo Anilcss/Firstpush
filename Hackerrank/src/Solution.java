@@ -32,7 +32,7 @@ public class Solution {
     
     public static void main(String[] args)
      {
-    
+    System.out.println("HIiii");
    Scanner sc=new Scanner(System.in);
    int n=sc.nextInt();
     int arr[]=new int[n];
