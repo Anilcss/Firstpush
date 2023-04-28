@@ -12,7 +12,7 @@ public class patternmatcher {
 		Pattern pt=Pattern.compile("[^a-z]",Pattern.CANON_EQ);
 		Matcher mt=pt.matcher(s);
 		boolean found=mt.find();
-		
+		System.out.println("New ");
 		System.out.println(found);
 		
 	}
