@@ -32,7 +32,7 @@ public class patternmatcher {
 		System.out.println("Caps letter  "+capsletter);
 		
 		
-	System.out.println(valid(smallletter,capsletter));
+	System.out.println("Pass validate"+valid(smallletter,capsletter));
 
 	}
 private static boolean valid(int smallletter,int capsletter) {
