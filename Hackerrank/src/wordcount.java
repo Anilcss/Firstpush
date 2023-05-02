@@ -7,6 +7,6 @@ public class wordcount {
 			String s=ip.nextLine();
 			int count=s.split("\\s").length;
 			System.out.println(count);
-System.out.println("Test for git pull");
+System.out.println("Test for git pull 2");
 		}
 }
